@@ -3,7 +3,7 @@ Learn about me
 ## License
 Feel free to clone & copy
 Make your own portfolio
-   '''diff
+   ```diff
     git clone  
     cd Portfolio
     Make changes in the way you like
@@ -14,4 +14,4 @@ Make your own portfolio
     git add .
     git commit -m "Made"
     git push --set-upstream origin (main/master) 
-    '''
+    ```
