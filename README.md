@@ -12,4 +12,4 @@ Feel free to clone & copy
 #### git status
 #### git add .
 #### git commit -m "Made"
-#### git push upstream origin (main/master)
+#### git push --set-upstream origin (main/master)
