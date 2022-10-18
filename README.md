@@ -3,22 +3,42 @@ Learn about me
 ## License
 Feel free to clone & copy
 Make your own portfolio
-<div>
+
  ```diff
-   + git clone  <br>
-   - cd Portfolio <br>
-   + Make changes in the way you like<br>
-   - git remove remote origin<br>
-   ! Make your personal repo<br>
-   ! git add remote origin personal_repo.link<br>
+git clone  
+ 
  ```
-</div>
-  <div>
  ```diff
-   ! git status<br>
-   # git add .<br>
-   # git commit -m "Made"<br>
-   @@ git push --set-upstream origin (main/master) @@
-    ```
-  </div>
-  
+cd Portfolio 
+``` 
+Make changes in the way you like
+
+ 
+ ```diff
+git remove remote origin
+
+ ```
+ 
+
+Make your personal repo
+ 
+ ```diff
+
+git add remote origin personal_repo.link
+ ```
+ ```diff
+
+git status
+ ```
+ ```diff
+git add .
+
+ ```
+ ```diff
+git commit -m "Made"
+
+ ```
+ ```diff
+git push --set-upstream origin (main/master) 
+
+ ```
