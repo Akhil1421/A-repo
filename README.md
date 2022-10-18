@@ -10,7 +10,7 @@ Make your own portfolio
    - git remove remote origin
    ! Make your personal repo
    ! git add remote origin personal_repo.link
-   <copy-button>! git status</copy-button>
+   <copy-button>! git status
    # git add .
    # git commit -m "Made"
    @@ git push --set-upstream origin (main/master) @@
